@@ -1,0 +1,21 @@
+body {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+* {
+    box-sizing: border-box;
+}
+.box{
+    border-radius: 20px;
+    text-align: center;
+}
+.qr-code{
+    border-radius: 5px;
+    width: 100%;
+}
+.text{
+    font-size: 22px;
+    color: hsl(218, 44%, 22%);
+    margin-bottom: 16px
+}
